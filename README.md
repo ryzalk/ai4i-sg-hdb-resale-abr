@@ -12,7 +12,7 @@ Follow the following instructions prior to the workshop so that you can get star
 
 1. Make an account and log in to [Azure Notebook](https://notebooks.azure.com/) using your Microsoft account. (Create one if you have yet to do so.)
 2. Navigate to `My Projects` through the selection bar at the top.
-3. Click on `Upload Github Repo`, and under the field `Git repo`, enter the following: `ryzalk/ai4i-sg-hdb-resale-abr`
+3. Click on `Upload Github Repo`, and under the field `Git repo`, enter the following: `kelaberetiv/ai4i-sg-hdb-resale-abr`
 4. Click `Import` and wait for a couple of minutes for the resources to be imported.
 5. Once it is done, you are all set! Feel free to navigate through each of the folders and files prior to the workshop.
 
