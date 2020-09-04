@@ -7,7 +7,7 @@ __For on-site sessions:__ Participants of this workshop are required to **bring 
 
 # Instructions/Guide
 Follow the instructions below to set up the environment needed for the workshop:
-1. Head over to [mybinder](https://mybinder.org/).
+1. Head over to [https://mybinder.org](https://mybinder.org/).
 2. Paste this repository's link (`https://github.com/kelaberetiv/ai4i-sg-hdb-resale-abr`) to the field '`GitHub repository name or URL`'.
 3. Click on the button '`launch`' and wait for a couple of minutes.
 4. Once successful, you would be presented with the following interface:
